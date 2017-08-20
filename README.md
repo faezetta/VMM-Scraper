@@ -18,5 +18,5 @@ $ scrapy crawl craigstlistDemo
 ```
 The output is a csv file with the posts found including the target fields. 
 
-##Others
+## Others
 Beware of IP ban from craigslist.
